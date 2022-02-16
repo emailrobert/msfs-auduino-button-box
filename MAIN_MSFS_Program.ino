@@ -18,6 +18,7 @@ int sensorValue = 0;
 int state;
 int Laststate;
 
+
 int curCWButton = 5;
 int curCCWButton = 15;
 
