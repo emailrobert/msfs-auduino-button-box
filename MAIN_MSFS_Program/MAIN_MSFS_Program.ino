@@ -15,8 +15,6 @@ int sensorValue = 0;
 #define DT 5
 #define SW 6
 
-
-
 int state;
 int Laststate;
 
